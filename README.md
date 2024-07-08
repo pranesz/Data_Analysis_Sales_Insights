@@ -1,6 +1,6 @@
 # Data_Analysis_Sales_Insights
 
-#This is help full to Give overview for you first Data using Projects 
+#This is help full to Give overview for you first Data using Projects
 
 #Use MYSQL for storing and Aggeration for Data Analysis 
 
